@@ -12,7 +12,7 @@ I'm passionate about **building intuitive web applications** and constantly impr
 ### 🚀 **Currently Learning & Working On:**  
 - Enhancing my **React.js** and **state management** skills  
 - Working on **MERN stack projects**  
-- Building a **Task Management System (WorkHire)**  
+- Building a **AI Trip Planner (AITripPplanner)**  
 
 ### 🤝 **Let's Connect:**  
 - 📬 Email: smriti17sharma@gmail.com  
