@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Smriti Sharma!  
+🚀 **Front-End Developer | React.js Enthusiast | MERN Stack Learner**  
 
-<!--
-**Smriti4252/Smriti4252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **building intuitive web applications** and constantly improving my **React.js and front-end development skills**.  
 
-Here are some ideas to get you started:
+### 🔥 **What I Do:**  
+- 💻 **Front-End:** React.js, JavaScript, Tailwind CSS, HTML, CSS  
+- ⚙️ **Back-End:** Node.js, Express.js  
+- 🛠️ **Database:** MongoDB  
+- 🎨 **UI/UX:** Creating responsive & user-friendly designs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Currently Learning & Working On:**  
+- Enhancing my **React.js** and **state management** skills  
+- Working on **MERN stack projects**  
+- Building a **Task Management System (WorkHire)**  
+
+### 🤝 **Let's Connect:**  
+- 📬 Email: smriti17sharma@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/smritisharma731/))  
+
+
+### 💡 **Fun Fact:**  
+I love **solving coding challenges** and **exploring new tech trends**!  
+
+
+
