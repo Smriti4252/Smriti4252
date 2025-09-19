@@ -1,26 +1,34 @@
-## Hi there 👋, I'm Smriti Sharma!  
-🚀 **Front-End Developer | React.js Enthusiast | MERN Stack Learner**  
+# Hi there 👋, I'm Smriti Sharma!
 
-I'm passionate about **building intuitive web applications** and constantly improving my **React.js and front-end development skills**.  
+🚀 **Aspiring Data Analyst | SQL & Python Enthusiast | Business Insights Explorer**
 
-### 🔥 **What I Do:**  
-- 💻 **Front-End:** React.js, JavaScript, Tailwind CSS, HTML, CSS  
-- ⚙️ **Back-End:** Node.js, Express.js  
-- 🛠️ **Database:** MongoDB  
-- 🎨 **UI/UX:** Creating responsive & user-friendly designs  
+I’m passionate about transforming raw data into actionable insights and solving real-world business problems using **SQL, Python, and data analysis techniques**.
 
-### 🚀 **Currently Learning & Working On:**  
-- Enhancing my **React.js** and **state management** skills  
-- Working on **MERN stack projects**  
-- Building a **AI Trip Planner (AITripPlanner)**  
+---
 
-### 🤝 **Let's Connect:**  
+### 🔥 What I Do
+- 💻 **Data Analysis & Processing**: Python (Pandas, NumPy), SQL (MySQL, PostgreSQL)  
+- 📊 **Business Insights**: Revenue trends, top categories, customer behavior, peak hours analysis  
+- 🛠️ **Data Management**: Cleaning, feature engineering, data validation  
+- 📈 **Visualization & Reporting**: Data storytelling to support business decisions  
+
+---
+
+### 🚀 Currently Learning & Working On
+- Enhancing my **SQL & Python skills** with real-world projects  
+- Building **end-to-end analytics projects** like Walmart Sales Data Analysis  
+- Exploring **predictive analytics** and AI-driven insights  
+
+---
+
+### 🤝 Let's Connect
 - 📬 Email: smriti17sharma@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/smritisharma731/))  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/smritisharma731/)
+---
 
-
-### 💡 **Fun Fact:**  
-I love **solving coding challenges** and **exploring new tech trends**!  
+### 💡 Fun Fact
+I love solving **data challenges**, exploring **business trends**, and **automating workflows** to make data-driven decisions faster!
+ 
 
 
 
